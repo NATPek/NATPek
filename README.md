@@ -1,5 +1,5 @@
 ![Header](https://github.com/NATPek/NATPek/blob/main/assets/NP.png)
 
-About me
+## Начинающий тестировщик
 
 Tools and Languages
