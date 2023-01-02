@@ -2,7 +2,7 @@
 
 ## Начинающий тестировщик
 
-### My CV
+### How to reach me: namo.aratar@yandex.ru
 
 ### Tools
 ![Postman](https://img.shields.io/badge/POSTMAN-0000FF?style=for-the-badge&logo=postman)
