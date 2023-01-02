@@ -1,6 +1,7 @@
-![Header](https://github.com/NATPek/NATPek/blob/main/assets/NP.png)
+## Специалист по тестированию (Junior QA)
 
-## Начинающий тестировщик
+### Привет!
+### Меня зовут Наталья Пекова, я — начинающий тестировщик.
 
 ### How to reach me: namo.aratar@yandex.ru
 
