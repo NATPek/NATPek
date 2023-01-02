@@ -4,6 +4,8 @@
 
 ### How to reach me: namo.aratar@yandex.ru
 
+### Итоговая аттестационная работа на тему "Разработка подходов по обеспечению качества интернет-проекта": https://drive.google.com/file/d/19DAXGAmrT4vR0uQC7C-PrUDa-qRNI_lM/view?usp=share_link
+
 ### Tools
 ![Postman](https://img.shields.io/badge/POSTMAN-0000FF?style=for-the-badge&logo=postman)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0000FF?style=for-the-badge&logo=PostgreSQL)
