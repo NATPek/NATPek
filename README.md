@@ -19,7 +19,7 @@ State & Transition Diagram: https://drive.google.com/file/d/19rZoL9hU0fTPasZialD
 
 
 ### Postman collection:
-https://drive.google.com/file/d/1fFIXk3_J1kDVtJVAeIDTTYRulJzXDoLw/view?usp=sharing
+https://drive.google.com/file/d/1fFIXk3_J1kDVtJVAeIDTTYRulJzXDoLw/view?usp=sharing, скриншоты https://drive.google.com/file/d/1wCxXPfblyrw6wLMrnpWtit08HfPuWJge/view?usp=sharing
 
 
 ### Tools
