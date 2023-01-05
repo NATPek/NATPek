@@ -1,19 +1,19 @@
-## Специалист по тестированию (Junior QA)
+## Специалист по тестированию ПО (Junior QA)
 
 <h2 align="center"> Привет! Меня зовут Наталья.
 
-### <p align="justify"> Я — начинающий тестировщик. Здесь размещены ссылки на мою итоговую работу по курсу тестирования и примеры моих тест-кейсов, баг-репортов, диаграммы состояний и переходов, матрицы трассировки требований.</p>
+### <p align="justify"> Я — начинающий тестировщик. Здесь размещены ссылки на мою итоговую работу по курсу тестирования, примеры моих тест-кейсов, баг-репортов и другие материалы.</p>
 
 ### Итоговая аттестационная работа
-на тему "Разработка подходов по обеспечению качества интернет-проекта": https://drive.google.com/file/d/19DAXGAmrT4vR0uQC7C-PrUDa-qRNI_lM/view?usp=share_link
+на тему "Разработка подходов по обеспечению качества интернет-проекта": https://drive.google.com/file/d/1-YVQEoM_jbk7693iquEAy-76Y-jJa5um/view?usp=share_link
 
 
 ### Testing Documentation
-Test-cases: https://drive.google.com/file/d/1pOIJxqkrPx_H-24zszqD-7yPeNC9q9LI/view?usp=share_link
+Test-cases: https://docs.google.com/spreadsheets/d/1-BHq_ulSBmdw3PQK-b0YC6-_JYLpJVTFGLKkIDPdEaA/edit?usp=share_link
 
-Bug-reports: https://drive.google.com/file/d/1ZX--Qn7ae4BiodGSN4Cpck4JmSeJaFV5/view?usp=share_link
+Bug-reports: https://docs.google.com/spreadsheets/d/10P9ckEznkpuSPZt9dDNiuL2lk9kYhRQtdRIGONeUf4Q/edit?usp=share_link
 
-Requirements Traceability Matrix: https://drive.google.com/file/d/16KvDXtI2pIOJZJjJGVOQxhYCcu_kTM0k/view?usp=share_link
+Requirements Traceability Matrix: https://docs.google.com/spreadsheets/d/1Msg8lFkLnUH-ziTkjUVCjx0lysX_B9Fjc6ipZereTsg/edit?usp=share_link
 
 State & Transition Diagram: https://drive.google.com/file/d/19rZoL9hU0fTPasZialDjUWiGdHvuj1Sy/view?usp=sharing
 
