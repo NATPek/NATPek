@@ -2,7 +2,9 @@
 
 <h2 align="center"> Привет! Меня зовут Наталья.
 
-### <p align="justify"> Я — начинающий тестировщик. Здесь размещены ссылки на мою итоговую работу по курсу тестирования, примеры моих тест-кейсов, баг-репортов и другие материалы.</p>
+### <p align="justify"> Я — тестировщик. Чуть более двух лет я работаю в Яндексе, вначале в коменде тестирования главной страницы, теперь — в команде тестирования десктопного браузера. Преимущественно я занимаюсь регрессионным тестированием, но иногда выполняю другие задачки: от редактирования/написания тест-кейсов до работы с багами, найденными пользователями или асессорами.
+
+Здесь размещены ссылки на мою итоговую работу по курсу тестирования двухлетней давности, когда я делала первые шаги в тестировании, примеры моих тест-кейсов, баг-репортов и другие материалы.</p>
 
 ### Итоговая аттестационная работа
 на тему "Разработка подходов по обеспечению качества интернет-проекта": https://drive.google.com/file/d/1-YVQEoM_jbk7693iquEAy-76Y-jJa5um/view?usp=share_link
@@ -28,5 +30,7 @@ https://drive.google.com/file/d/1fFIXk3_J1kDVtJVAeIDTTYRulJzXDoLw/view?usp=shari
 ![Git](https://img.shields.io/badge/git-0000FF?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0000FF?style=for-the-badge&logo=GitHub)
 ![ChromeDevTools](https://img.shields.io/badge/ChromeDevTools-0000FF?style=for-the-badge&logo=ChromeDevTools)
+
+Несколько раз работала и точно могу разобраться с:
 ![SoapUI](https://img.shields.io/badge/SoapUI-0000FF?style=for-the-badge&logo=SoapUI)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-0000FF?style=for-the-badge&logo=AndroidStudio)
