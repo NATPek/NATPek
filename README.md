@@ -25,11 +25,14 @@ https://drive.google.com/file/d/1fFIXk3_J1kDVtJVAeIDTTYRulJzXDoLw/view?usp=shari
 
 
 ### Tools
+Регулярно работаю с:
+Fiddler, Charles Proxy, ![ChromeDevTools](https://img.shields.io/badge/ChromeDevTools-0000FF?style=for-the-badge&logo=ChromeDevTools), VirtualBox, Linux (Ubuntu + несколько рулинуксов).
+
+Неплохо знала для новичка, но сейчас чуть-учть подзабыла: 
 ![Postman](https://img.shields.io/badge/POSTMAN-0000FF?style=for-the-badge&logo=postman)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0000FF?style=for-the-badge&logo=PostgreSQL)
 ![Git](https://img.shields.io/badge/git-0000FF?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0000FF?style=for-the-badge&logo=GitHub)
-![ChromeDevTools](https://img.shields.io/badge/ChromeDevTools-0000FF?style=for-the-badge&logo=ChromeDevTools)
 
 Несколько раз работала и точно могу разобраться с:
 ![SoapUI](https://img.shields.io/badge/SoapUI-0000FF?style=for-the-badge&logo=SoapUI)
